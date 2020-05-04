@@ -19,3 +19,5 @@ Current SWE @ SDSC: https://sdsc.edu
 Former SWE @ Cirrascale: https://cirrascale.com
 
 Former CSE Tutor: https://cse.ucsd.edu/undergraduate/undergraduate-tutors
+
+![alt text](https://github.com/JamesMcDougallJr/resume/blob/master/resume.png?raw=true)
